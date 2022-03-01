@@ -1,0 +1,30 @@
+id: PAC36FBF1
+initial_creation_type: input
+source_metadata:
+  title: Transference (Phowa)
+  language: fr
+  description: 'Texts related to powa (‘pho ba; Skt. saṃkrānti/utkrānti), the transference
+    or ejection of consciousness at the moment of death, a practice which may be performed
+    for oneself or on behalf of another and which is one of Nāropa’s six yogas:'
+  volume:
+    386cc56c24e04a2e8ace425ac1027841:
+      title: A Simple Method of Transference for Helpless Animals
+      parent: Rituals
+    43caffcd4da44abd8afddeb20e0de291:
+      title: 'Transference: Enlightenment Without Meditation (root text)'
+      parent: Rituals
+    4941ac46c2914ad6a3d76bb4560990c3:
+      title: Dharmakāya Transference
+      parent: Rituals
+    632f2b126d64419baa08069bf8516e8b:
+      title: 'Transference: Enlightenment Without Meditation (Compilation)'
+      parent: Rituals
+    3ea80657dc704cfe9f4605a7c48db6cc:
+      title: A Simple Practice of Phowa, 'Transference of Consciousness'
+      parent: Rituals
+    437f3de21bc04158aee39a0ac02d1e3d:
+      title: Extensive Instructions on the Transference of Consciousness to the Land
+        of Great Bliss
+      parent: Commentaries
+created_at: '2022-03-01T06:24:50.038883'
+last_modified_at: '2022-03-01T06:24:50.038886'
